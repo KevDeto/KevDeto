@@ -1,9 +1,9 @@
 - ## 👋 &nbsp;Hey there! I'm Kevin
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/AVS1508">
     <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
   </a>
-</p>
+</p> -->
 <!--align="right"-->
 
 ### 👨🏻‍💻 &nbsp;About Me
