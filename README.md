@@ -8,12 +8,16 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-💡 &nbsp;Apasionado por la tecnología y el desarrollo de software. Disfruto explorar nuevas tecnologías y construir soluciones innovadoras.\
+
+
+
+💡 &nbsp; Apasionado por la tecnología y el desarrollo de software. Disfruto explorar nuevas tecnologías y construir soluciones innovadoras.\
 🎓 &nbsp;Estudiante de Programación en la Universidad Nacional de General Sarmiento, especializándome en Java, Spring Boot y tecnologías backend.\
 🌱 &nbsp;Actualmente estoy aprendiendo más sobre tecnología backend, desarrollo frontend y arquitectura de software, con el objetivo de convertirme en un desarrollador integral.\
 ✍️ &nbsp;En mi tiempo libre, trabajo en proyectos personales para consolidar mis conocimientos y mejorar mis habilidades, además de disfrutar de buenas películas.\
 💬 &nbsp;¿Buscas a alguien comprometido y con ganas de aprender? No dudes en escribirme, estoy abierto a propuestas laborales y colaboraciones.\
 ✉️ &nbsp;Contacto: contactohuayta@gmail.com
+</a>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 ### 🛠 &nbsp;Tecnologias
