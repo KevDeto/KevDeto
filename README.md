@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://github.com/README">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevDeto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 -->
