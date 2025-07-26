@@ -44,7 +44,7 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<!--
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -52,4 +52,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevDeto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
--->
+
