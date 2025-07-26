@@ -45,7 +45,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Analíticas de GitHub
 
 <p align="center">
 <a href="https://github.com/README">
